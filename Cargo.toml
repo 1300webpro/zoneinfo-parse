@@ -10,6 +10,6 @@ readme = "README.md"
 authors = ["Ben S <ogham@bsago.me>"]
 
 [dependencies]
-datetime = "0.4.4"
+datetime = { git = "https://github.com/1300webpro/datetime"} #"0.4.4"
 lazy_static = "0.2.1"
 regex = "0.1.77"
